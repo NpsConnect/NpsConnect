@@ -1,0 +1,5 @@
+- 👋 Hi, Were nps connect
+- 👀 we are interested in Gui and development of an app which helps students collaborate / connect with alumini 
+- 🌱 I’m currently learningjavascrip and unity
+- 💞️ I’m looking to collaborate on chat application and a proper app 
+- 📫 How to reach me npsconnect.help@gmail.com
